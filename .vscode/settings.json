@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "actuel",
+        "centralwidget",
+        "COMPRIMER",
+        "creer",
+        "Gestion",
+        "obligatoire",
+        "seuil"
+    ],
+    "python.analysis.extraPaths": [
+        "./view"
+    ]
+}
